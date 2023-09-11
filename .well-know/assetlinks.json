@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smithherrera.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["92:94:58:0D:3E:B9:39:EA:84:54:E9:32:95:57:EC:5F:B8:E8:61:7E:FD:B5:2A:67:E6:AF:52:D4:87:15:8A:D6"]
+    }
+  }]
+  
